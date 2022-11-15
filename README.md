@@ -1,6 +1,6 @@
-### Hi, I'm Kyra! 👋
+## Hi, I'm Kyra! 👋
 
-## I'm a full stack developer 🥞
+### I'm a full stack developer 🥞
 
 - 🚧 Working on an app to assist backcountry skiers assess avalanche conditions 
 - 🌱 Currently learning React Native
