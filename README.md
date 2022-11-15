@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi, I'm Kyra! 👋
+
+## I'm a full stack developer 🥞
+
+- 🚧 Working on an app to assist backcountry skiers assess avalanche conditions 
+- 🌱 Currently learning React Native
+- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/kyra-henningson/)
 
 <!--
 **k-henningson/k-henningson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
