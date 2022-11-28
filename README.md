@@ -3,7 +3,7 @@
 ### I'm a full stack developer 🥞
 
 - 🚧 Working on an app to assist backcountry skiers assess avalanche conditions 
-- 🌱 Currently learning React Native
+- 🌱 Currently learning React Native & Firebase
 - 📫 Reach me via [Linkedin](https://www.linkedin.com/in/kyra-henningson/)
 
 <!--
