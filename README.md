@@ -2,9 +2,10 @@
 
 ### I'm a full stack developer 🥞
 
-- 🚧 Working on a [mobile app](https://github.com/k-henningson/dig-it) to assist backcountry skiers assess avalanche conditions 
+- 🚧 Working on a [mobile app](https://github.com/k-henningson/dig-it) to assist backcountry skiers ⛷ assess avalanche conditions ❄️ 
 - 🌱 Currently learning React Native & Firebase
-- 📫 Reach me via [Linkedin](https://www.linkedin.com/in/kyra-henningson/)
+- 🏡 Based in Vancouver, BC 🇨🇦
+- 📫 Reach out via [Linkedin](https://www.linkedin.com/in/kyra-henningson/)!
 
 <!--
 **k-henningson/k-henningson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
