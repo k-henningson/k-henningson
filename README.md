@@ -1,23 +1,14 @@
-## Hi, I'm Kyra! 👋🏼
+## Hi, I'm Kyra! 👋🏼 A full stack developer 🥞
 
-### I'm a full stack developer 🥞
+### 🚧 Working on: 
 
-- 🚧 Working on a [mobile app](https://github.com/k-henningson/dig-it) to assist backcountry skiers ⛷ assess avalanche conditions ❄
-- 🌱 Currently learning React Native & Firebase
-- 🏡 Based in Vancouver, BC 🇨🇦
-- 📫 Reach out via [Linkedin](https://www.linkedin.com/in/kyra-henningson/)!
+[Dig It](https://github.com/k-henningson/dig-it) is a mobile app that assists backcountry skiers in assessing avalanche conditions by evaluating the snowpack. The goal of this project is to provide the backcountry community with a solution for recording snow pit data.
+MVP estimated completion date: February 2023. 
 
-<!--
-**k-henningson/k-henningson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently learning:
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=firebase,react,swift)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📬 Connect:
+
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kyra-henningson-878488230/)
